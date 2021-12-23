@@ -1,22 +1,12 @@
-## <h1> Crud para el registro de estudiantes y materias </h1>
+## <h1> Crud para el registro de Servicios de Productos</h1>
 
 <img src="https://user-images.githubusercontent.com/37219277/146828188-b808db39-7637-4fcd-8029-99b8f8d8d640.png" style="max-width: 100%;">
-
-<img src="https://user-images.githubusercontent.com/37219277/146828667-d5e97189-0a52-49c2-b62b-0856f525f147.png" style="max-width: 100%;">
-
-<img src="https://user-images.githubusercontent.com/37219277/146828789-552ba16f-de31-44b0-b32e-dbd27d38c1cd.png" style="max-width: 100%;">
-
-<img src="https://user-images.githubusercontent.com/37219277/146828950-74f6e013-ca99-4f14-a93b-151b9343f3f3.png" style="max-width: 100%;">
-
-<img src="https://user-images.githubusercontent.com/37219277/146829045-64c9d631-16ec-4c33-a603-71c361056a7f.png" style="max-width: 100%;">
-
-<img src="https://user-images.githubusercontent.com/37219277/146829118-0daaf395-7ff5-4b86-9f46-0e2ffe457f78.png" style="max-width: 100%;">
-
-<img src="https://user-images.githubusercontent.com/37219277/146829207-00b89386-8621-4413-bd8d-82f918350d97.png" style="max-width: 100%;">
-
-<img src="https://user-images.githubusercontent.com/37219277/146829365-e1febc73-cc65-4047-afc8-6bd824096317.png" style="max-width: 100%;">
-
-<img src="https://user-images.githubusercontent.com/37219277/146829489-d8c95596-8b24-4f28-8b5b-37272c70adf2.png" style="max-width: 100%;">
+<img src="https://user-images.githubusercontent.com/37219277/147293567-33a47a38-0334-454f-8aba-966ff80c9f5f.png" style="max-width: 100%;">
+<img src="https://user-images.githubusercontent.com/37219277/147293651-b61ff4b0-c6fe-46cb-81fd-6579f2ad7bba.png">
+<img src="https://user-images.githubusercontent.com/37219277/147293692-eb4faa1b-42d2-4191-9e5f-a0abed8003b3.png">
+<img src="https://user-images.githubusercontent.com/37219277/147293753-43afb2ed-ac6a-4196-9977-f3aa2e1ad304.png">
+<img src="https://user-images.githubusercontent.com/37219277/147293800-dc6611b4-94e7-412d-b74c-252f040e1a35.png">
+<img src="https://user-images.githubusercontent.com/37219277/147293856-121ba58b-947a-4385-85cc-9014cb7c2e47.png" style="max-width: 100%;">
 
 ## Especificación técnica
 
