@@ -23,6 +23,7 @@
 * Crear + Editar + Eliminar basado en modal y con Sweetalert, Lista con paginación, Buscador por nombre, precio, variaciones, categoría.
 * Listar servicio de productos
 * Iniciar sesión, Registrarse
+* Cerrar Sesión
 
 
 ### Instalación
