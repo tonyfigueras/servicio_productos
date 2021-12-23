@@ -30,24 +30,21 @@
 
 ## Caracteristicas
 
-* Seeders con estudiantes y materias
-* Crear + Editar + Eliminar basado en modal y con Sweetalert, Lista con paginación, Buscador de materias y estudiantes.
-* Listar estudiantes y materias
+* Crear + Editar + Eliminar basado en modal y con Sweetalert, Lista con paginación, Buscador por nombre, precio, variaciones, categoría.
+* Listar servicio de productos
 * Iniciar sesión, Registrarse
-* Asignar materias a estudiantes,  Crear + Editar + Eliminar basado en modal y con Sweetalert
-* Listar materias a signadas a estudiantes.
+
 
 ### Instalación
 
-* git clone https://github.com/tonyfigueras/Crud_Materia_Estudiante.git
-* cd Crud_Materia_Estudiante/
+* git clone https://github.com/tonyfigueras/servicio_productos.git
+* cd servicio_productos/
 * composer install
 * npm install
 * modificar el archivo .env.example a .env
 * Actualice .env y configure las credenciales de su base de datos
 * php artisan key:generate
 * php artisan migrate
-* php artisan db:seed
 * npm install
 * npm run dev
 * php artisan serve
